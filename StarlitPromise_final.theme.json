@@ -1,0 +1,193 @@
+{
+  "name": "Starlit Promise",
+  "description": "A dreamy anime-style theme featuring twilight skies and falling stars.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "YourName",
+      "id": "your_discord_id"
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": [
+      "#ffffff"
+    ],
+    "HEADER_SECONDARY": [
+      "#d2c8ff"
+    ],
+    "TEXT_NORMAL": [
+      "#ffffff"
+    ],
+    "TEXT_MUTED": [
+      "#b0b0c0"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#87bbff"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#9ccfff"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#ffffff"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#6e88a4"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#0b0b1f"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#0b0b1f"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#0b0b1f"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#140e2d"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#140e2d"
+    ],
+    "BG_BASE_SECONDARY": [
+      "#140e2d"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#1c1440"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#261f52"
+    ],
+    "BG_BASE_TERTIARY": [
+      "#261f52"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#2f2670"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#0b0b1f"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#140e2d"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(255, 255, 255, 0.03)"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(255, 255, 255, 0.04)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(255, 255, 255, 0.05)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(255, 255, 255, 0.06)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#261f52"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "rgba(135, 187, 255, 0.1)"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+      "#87bbff"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#1a1439"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#140e2d"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#261f52"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#140e2d"
+    ],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+      "#2f2670"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "#87bbff"
+    ],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+      "#ffffff"
+    ],
+    "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#f0f0ff"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#d2c8ff"
+    ],
+    "CHANNEL_ICON": [
+      "#87bbff"
+    ],
+    "TEXT_PRIMARY": [
+      "#ffffff"
+    ],
+    "TEXT_LINK": [
+      "#a0caff"
+    ],
+    "THREAD_CHANNEL_SPINE": [
+      "#9ccfff"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#ffffff",
+    "PRIMARY_200": "#d2c8ff",
+    "PRIMARY_300": "#f0f0ff",
+    "PRIMARY_400": "#b0b0c0",
+    "PRIMARY_500": "#87bbff",
+    "PRIMARY_600": "#9ccfff",
+    "PRIMARY_700": "#0b0b1f",
+    "PRIMARY_800": "#2f2670",
+    "PLUM_10": "#b0b0c0",
+    "PLUM_24": "#87bbff",
+    "PLUM_11": "#140e2d",
+    "PLUM_15": "#261f52",
+    "PLUM_16": "#87bbff",
+    "PLUM_17": "#2f2670",
+    "PLUM_20": "#0b0b1f",
+    "PLUM_3": "#ffffff",
+    "PLUM_4": "#f0f0ff",
+    "PLUM_6": "#b0b0c0",
+    "BRAND_230": "#87bbff",
+    "BRAND_260": "#9ccfff",
+    "BRAND_360": "#ffffff",
+    "BRAND_500": "#87bbff",
+    "BRAND_560": "#ffffff",
+    "RED_260": "#ff7b9c",
+    "ROLE_DEFAULT": "#b0b0c0",
+    "YELLOW_260": "#ffe08a",
+    "GREEN_260": "#a6ffd1",
+    "GUILD_BOOSTING_PINK": "#ff99cc",
+    "GUILD_BOOSTING_PURPLE": "#b28bff",
+    "BLUE_345": "#87bbff",
+    "BLUE_330": "#9ccfff",
+    "WHITE_500": "#ffffff",
+    "WHITE_630": "#b0b0c0"
+  },
+  "plus": {
+    "version": "0",
+    "customOverlays": true,
+    "icons": {
+      "ic_radio_circle_checked": "#87bbff",
+      "ic_radio_circle_checked__overlay": "#ffffff",
+      "ic_radio_square_24px": "#87bbff",
+      "ic_radio_square_checked_24px": "#87bbff",
+      "ic_radio_square_checked_24px__overlay": "#ffffff",
+      "ic_selection_checked_24px": "#87bbff",
+      "ic_selection_checked_24px__overlay": "#ffffff",
+      "StatusMobileOnline": "#87bbff",
+      "StatusIdle": "#ffe08a",
+      "StatusDND": "#ff7b9c",
+      "StatusOffline": "#585666",
+      "StatusOnline": "#87bbff",
+      "StatusStreaming": "#9ccfff"
+    }
+  },
+  "background": {
+    "blur": 0.15,
+    "url": "https://raw.githubusercontent.com/onezo123/discord-theme/refs/heads/main/b6249c14857435faf2182fbdc9bd999e.jpg",
+    "alpha": 0.45
+  },
+  "spec": 2
+}
